@@ -5,6 +5,6 @@ focus:
 A expansive project
 
 Technologies:
-speech recognition
+ speech recognition (google, )
 voice synthesis
 IA
