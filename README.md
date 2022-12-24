@@ -5,6 +5,6 @@ focus:
 A expansive project
 
 Technologies:
- speech recognition (google for online, vosk for offline)
-voice synthesis
-IA
+    speech recognition (google for online, vosk for offline)
+    voice synthesis
+    IA
